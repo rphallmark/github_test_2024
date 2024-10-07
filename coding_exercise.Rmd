@@ -1,0 +1,8 @@
+```{r}
+source("setup.R")
+```
+
+```{r}
+data("knz_bison")
+```
+
